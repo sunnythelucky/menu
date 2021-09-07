@@ -1,6 +1,6 @@
 # react-menu-app
 
-It's a simple and cute menu app
+It's a simple and cute menu app.
 
 ## Screenshot
 
